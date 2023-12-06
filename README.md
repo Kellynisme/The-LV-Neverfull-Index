@@ -17,4 +17,10 @@ We then constructed a bar graph displaying the CAD price of the Neverfull bag in
 
 ## 4. Importing data on Distance
 We imported another table that shows the external factor that we assume contributes to the global price difference - Distance. The 'Distance' column of the graph displays each country's distance from Luxembourg, our origin location around which the bags are manufactured.
+
 ![distance](distancefromlux.JPG)
+
+## 5. Cleaning data on Distance
+We data-cleaned the 'distance' table into 'f' so we could join it with the price table and use the data to make a scatterplot. This way, we can analyze the correlation between the price difference of the LV Neverfull and the distance from the manufacturing/origin location.
+
+![distance cleaned](distancecleaned.JPG)
