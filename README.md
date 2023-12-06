@@ -5,4 +5,4 @@ The objective of this assignment is to look at the price difference of the LV Ne
 ## 1. Importing data
 We scraped the table 
 
-![pricetable](price table.JPG "pricetable")
+![pricetable](/The-LV-Neverfull-Index/pricetable.JPG)
