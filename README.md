@@ -5,12 +5,4 @@ The objective of this assignment is to look at the price difference of the LV Ne
 ## 1. Importing data
 We scraped the table 
 
-<i>lv_price = scrape_table(table1)
-
-lv_price_cad=lv_price.apply(lambda x:x*1.3544, 'Price in USD$')
-
-lv_price=lv_price.with_column('Price in CAD$',lv_price_cad)
-
-lv_price</i>
-
-This is our assignment 3
+![pricetable](price table.JPG "pricetable")
