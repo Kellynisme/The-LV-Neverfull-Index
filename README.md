@@ -4,5 +4,7 @@ The objective of this assignment is to look at the price difference of the LV Ne
 # The Creation of the Index
 ## 1. Importing data
 We scraped the table 
-
+## 2. Converting the price to CAD
 ![PRICE TABLE](pricetable.JPG)
+## 3. Making a Bar Graph
+![bar chart](download.png)
