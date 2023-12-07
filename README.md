@@ -25,11 +25,12 @@ We data-cleaned the 'distance' table into 'f' so we could join it with the price
 
 ![distance cleaned](distancecleaned.JPG)
 
-## 6. Defining standard units and correlation function and plotting
+## 6. Defining standard units and correlation functions and plotting
 We figured the data would be better visualized if we converted it to standard units. Furthermore, we can use the data in standard units to calculate the correlation coefficient (r).
 
 ![cor](stdandcorrelation.JPG)
 ![plot](codeforcorrel.JPG)
 ![graph](download(1).png)
 
+## 7. Calculating correlation and analyzing
 
