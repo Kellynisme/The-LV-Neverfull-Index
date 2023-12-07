@@ -30,5 +30,6 @@ We figured the data would be better visualized if we converted it to standard un
 
 ![cor](stdandcorrelation.JPG)
 ![plot](codeforcorrel.JPG)
+![graph](download(1).png)
 
 
