@@ -43,3 +43,7 @@ in price differences among countries outside of Europe.
 
 # Conclusion
 The workshops for LV products are mainly located in Europe(Luxembourg). Therefore, these countries in Europe don't need to spend a substantial amount on import costs as the products are made in those countries. Another external factor that has likely thrown off our correlation coefficient for the two variables is import tax. Countries in Europe don't have to pay import tax as they are all in Europe. In contrast, countries outside of Europe, such as Mexico, have to pay a much larger amount for import tax, including the cost of importing the products over a larger distance. This, in part, can explain why the price of LV Neverfull is much more expensive in Mexico when compared to its cost in Luxembourg, which is the origin country of the bag.
+
+*Bonus part requested by Professor Haque
+
+
