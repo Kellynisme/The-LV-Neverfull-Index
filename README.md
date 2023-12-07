@@ -24,3 +24,11 @@ We imported another table that shows the external factor that we assume contribu
 We data-cleaned the 'distance' table into 'f' so we could join it with the price table and use the data to make a scatterplot. This way, we can analyze the correlation between the price difference of the LV Neverfull and the distance from the manufacturing/origin location.
 
 ![distance cleaned](distancecleaned.JPG)
+
+## 6. Defining standard units and correlation function and plotting
+We figured the data would be better visualized if we converted it to standard units. Furthermore, we can use the data in standard units to calculate the correlation coefficient (r).
+
+![cor](stdandcorrelation.JPG)
+![plot](codeforcorrel.JPG)
+
+
